@@ -3,7 +3,7 @@ SQL project to analyze online music store data
 
 This project deals with how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
-> Complete solutions in the solutions document: 
+> Complete solutions in the solutions document: https://docs.google.com/document/d/1Uaaec9Wmr85uy3KzewKLYSf-hUARLXAFkkTHzFE7mZw/edit?usp=sharing
 
 ## Database and Tools
 * MySQL
